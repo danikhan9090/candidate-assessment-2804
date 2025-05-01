@@ -75,7 +75,7 @@ export const connectAccount = (firstRun = false) =>
     const providerOptions = {
       injected: {
         display: {
-          logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1024px-MetaMask_Fox.svg.png',
+          logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1024px-MetaMask_Fox.png',
           name: 'MetaMask',
           description: 'Connect with MetaMask in your browser',
         },
